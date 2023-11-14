@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/adventofcamel/META"
+  "_build/install/default/lib/adventofcamel/dune-package"
+  "_build/install/default/lib/adventofcamel/opam"
+]
+bin: [
+  "_build/install/default/bin/adventofcamel"
+]
