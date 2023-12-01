@@ -1,4 +1,1 @@
-open Helper
-
-let () = List.iter (fun x -> print_string x) (read_input_file_string "input")
-
+let () = print_string "Advent Of 🐫 2023"

@@ -20,5 +20,4 @@
  (name adventofcamel)
  (synopsis "AoC '23")
  (description "Repo for Advent of Code 2023: OCaml edition")
- (depends ocaml dune))
-
+ (depends ocaml dune base core))

@@ -11,6 +11,8 @@ bug-reports: "https://github.com/PThorpe92/adventofcamel/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.11"}
+  "base"
+  "core"
   "odoc" {with-doc}
 ]
 build: [

@@ -6,3 +6,7 @@ lib: [
 bin: [
   "_build/install/default/bin/adventofcamel"
 ]
+doc: [
+  "_build/install/default/doc/adventofcamel/LICENSE"
+  "_build/install/default/doc/adventofcamel/README.md"
+]
