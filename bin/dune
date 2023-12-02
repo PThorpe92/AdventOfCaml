@@ -1,4 +1,4 @@
 (executable
  (public_name adventofcamel)
  (name main)
- (libraries adventofcamel base core))
+ (libraries adventofcamel base core fmt))
