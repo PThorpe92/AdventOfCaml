@@ -1,7 +1,0 @@
-(lang dune 3.12)
-(name adventofcamel)
-(sections (lib .) (bin ../../bin) (doc ../../doc/adventofcamel))
-(files
- (lib (META dune-package opam))
- (bin (adventofcamel))
- (doc (LICENSE README.md)))
